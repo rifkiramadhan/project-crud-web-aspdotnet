@@ -34,8 +34,8 @@ Kategory varchar(10)
 
 ---- Selesai ----
 
-Dibuat oleh	: Rifki Ramadhan
-IG		: https://www.instagram.com/rifkiromdons
-Whatsapp	: +6282122116992
+- Dibuat oleh	: Rifki Ramadhan
+- IG		: https://www.instagram.com/rifkiromdons
+- Whatsapp	: +6282122116992
 
 ---- Terimakasih ----
